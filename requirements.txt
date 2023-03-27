@@ -5,6 +5,6 @@ seaborn==0.12.2
 streamlit==1.20.0
 predict
 explore
-about_me
+about
 home
 img.jpg
