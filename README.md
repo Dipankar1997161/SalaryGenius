@@ -1,4 +1,7 @@
 # SalaryGenius
+
+![app home page](https://user-images.githubusercontent.com/85514219/228042142-dd263a7a-d3d9-4d95-b90c-7ad99d2170ac.png)
+
 The following is a web app which predicts the salary based on Country, Experience and Education Level
 
 ## Overview
@@ -24,5 +27,7 @@ With this, I finalized my model on Random Forest for further prediction. I will 
 I used Streamlit for this purpose and generate the necessary web app for my application. It's my first time creating a web-app so I will improvise the design and build more apps in the coming time.
 Here is the link for the webapp: https://dipankar1997161-salarygenius-app-h1x50m.streamlit.app/
 
+## Quick Snap of the Prediction
+![app prediction](https://user-images.githubusercontent.com/85514219/228042916-ed51ef1d-0a1d-4b59-965e-6e30fce95e6e.png)
 
 
