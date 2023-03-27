@@ -1,8 +1,9 @@
-matplotlib
+matplotlib==3.6.3
 numpy
-pandas
-seaborn
-streamlit
+scikit_image
+pandas==1.5.3
+seaborn==0.12.2
+streamlit==1.20.0
 predict
 explore
 about
