@@ -1,7 +1,7 @@
 import streamlit as st
 from predict import predict_page
 from explore import explore_page
-from about_me import about_me_page
+from about import about_me_page
 import warnings
 from home import home_page
 import pickle
