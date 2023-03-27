@@ -7,4 +7,3 @@ predict
 explore
 about
 home
-img.jpg

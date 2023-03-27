@@ -34,7 +34,7 @@ def main():
     </div>
     """
     with st.sidebar:
-        st.image("img.jpg")
+        st.image("https://e0.pxfuel.com/wallpapers/277/445/desktop-wallpaper-financial-financial-background-on-bat-finance-and-accounting.jpg")
         st.markdown(title_html, unsafe_allow_html = True)
             #st.markdown(page_bg_css, unsafe_allow_html=True)
         option = st.selectbox('Navigation', ["Home","About Me","Explore Data", "Predict"])
